@@ -1,7 +1,5 @@
 package org.example.unidad2.PrácticasPOO;
 
-public class CalculadoraEdad {
-}
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

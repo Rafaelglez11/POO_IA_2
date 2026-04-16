@@ -1,7 +1,5 @@
 package org.example.unidad2.Excepciones;
 
-public class CalculadoraPromedio2 {
-}
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
